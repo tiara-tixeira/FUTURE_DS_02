@@ -2,12 +2,12 @@
 # FUTURE_DS_02
 Business sales data analysis project using Power BI to uncover revenue trends, product performance, regional insights, and actionable business recommendations.
 
-##Project Overview
+Project Overview
 
 This project was completed as part of the Data Science & Analytics track. The objective was to analyse business sales data and transform it into meaningful insights that can support better business decision-making.
 An interactive dashboard was created using Microsoft Power BI to analyse sales performance across different years, regions, and product categories.
 
-##Business Objective
+Business Objective
 
 The objective of this project is to help answer important business questions such as:
 Which products generate the most revenue?
