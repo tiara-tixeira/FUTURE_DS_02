@@ -19,7 +19,7 @@ Where should the business focus to improve growth?
 Microsoft Power BI — Data visualization, dashboard creation, and interactive analysis
 Microsoft Excel — Data cleaning and preparation
 
-##Dashboard Features
+Dashboard Features
 
 The interactive dashboard includes:
 Total Sales KPI
@@ -34,7 +34,7 @@ Interactive Region filter
 Interactive Category filter
 Business insights and recommendations
 
-##Key Insights
+Key Insights
 
 The dashboard enables analysis of:
 Overall business performance through key performance indicators
@@ -43,7 +43,7 @@ Performance across different product categories
 Regional differences in business performance
 High-performing and underperforming areas
 
-##Business Recommendations
+Business Recommendations
 
 Based on the analysis, businesses can:
 Focus on high-performing products and categories
@@ -52,7 +52,7 @@ Investigate underperforming categories or regions
 Monitor sales trends to support future planning
 Use data-driven insights to improve business decision-making
 
-##Conclusion
+Conclusion
 
 This project demonstrates how raw business sales data can be transformed into interactive visualizations and actionable business insights using Power BI.
 
